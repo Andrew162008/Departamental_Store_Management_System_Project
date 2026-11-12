@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Programming_1-Group_Project-Departamental_Store_Management_System/Programming_1-Group_Project-Departamental_Store_Management_System.vcxproj" />
+</Solution>
