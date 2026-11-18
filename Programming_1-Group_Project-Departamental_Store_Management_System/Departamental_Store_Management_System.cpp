@@ -282,7 +282,7 @@ public:
         addProductToArray("Shampoo", 4, 6.49, 45, 15);
         addProductToArray("Face Cream", 4, 11.99, 7, 10);
         customers[0] = Customer(1, "John", "555-0101");
-        customers[1] = Customer(2, "Emma", "555-0102");
+        customers[1] = Customer(2, "Tom", "555-0102");
         customers[2] = Customer(3, "Adam", "555-0103");
         customerCount = 3;
         nextCustomerId = 4;
